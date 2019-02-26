@@ -49,9 +49,9 @@ The *CYW920819EVB-02/apps* folder contains additional examples. Use the examples
 | datalogger/spi_slave_sensor|Application demonstrates how to use the SPI driver interface to send and receive bytes or a stream of bytes over the SPI hardware as a slave|CYW920819EVB-02|No
 | low_power_20819|Application demonstrates low power modes (ePDS and HID-Off) in CYW20819 device.|CYW920819EVB-02|No
 | **CYW920819EVB-02/apps/snip/**|*These application demonstrate use of specific features or libraries of BT 20819 SDK*||
-| ble/bac & bas|Application implements BLE Battery Service Client and Server profiles.|CYW920819EVB-02|No
-| ble/anc & ans|Application implements BLE Alert Notification Client and Server profiles.|CYW920819EVB-02|No
-| ble/hrc & hrs|Application implements BLE Heart Service Client and Server profiles.|CYW920819EVB-02|No
+| ble/bac & bas|Applications implement BLE Battery Service Client and Server profiles.|CYW920819EVB-02|No
+| ble/anc & ans|Applications implement BLE Alert Notification Client and Server profiles.|CYW920819EVB-02|No
+| ble/hrc & hrs|Applications implement BLE Heart Service Client and Server profiles.|CYW920819EVB-02|No
 | ble/le_coc|Application demonstrate BT LE L2CAP APIs for Connection Oriented Channels.|CYW920819EVB-02|No
 | hal/adc, gpoi, puart, pwm|Applications that demonstrate use of WICED HAL APIs to use peripherals - ADC, GPIO, PUART, PWM|CYW920819EVB-02|No
 | ota_firmware_upgrade|Application demonstrates how to implement Over The Air Firmware Upgrade.|CYW920819EVB-02|No
