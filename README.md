@@ -2,7 +2,7 @@
 
 ## Overview
 
-These examples demonstrate the functionality of the CYW920819 device. Apps in the 'demo' folder are reference applications and more complex in nature. Apps in the 'snips' folder demonstrate a specific feature or library. These examples support ModusToolbox v1.1. They do not work with ModusToolbox v1.0. Additional PSoC 6-related code examples are available in other repos. See all examples at [Code Examples for Modus Toolbox](https://github.com/cypresssemiconductorco/Code-Examples-for-ModusToolbox-Software).
+These examples demonstrate the functionality of the CYW920819 device. Apps in the 'demo' folder are reference applications and more complex in nature. Apps in the 'snips' folder demonstrate a specific feature or library. These examples support ModusToolbox v1.1. They do not work with ModusToolbox v1.0. 
 
 Each example has a readme.txt that explains what do and what to observe when running the example. Also review the 20819_readme.txt for an overvivew of the BT-20819A1 SDK features and tools. 
 
